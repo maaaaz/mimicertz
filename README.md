@@ -8,10 +8,10 @@ A minimal safe version of mimikatz to only allow the export of non-exportable Wi
 
 Features
 --------
-* Based on the latest stable `2.1.1` mimikatz version
+* Based on the latest stable mimikatz version `2.1.1`
 * Compiled following that [awesome article](https://insinuator.net/2017/10/extract-non-exportable-certificates-and-evade-anti-virus-with-mimikatz-and-powersploit/) guidance
 * Compiled with only the `standard` and [`crypto`](https://adsecurity.org/?page_id=1821#CRYPTOCertificates) modules and removing all the other **offensive** ones (`privilege`, `sekurlsa`, `kerberos`, `lsadump` etc.)
-* Removing most of the `mimikatz` textual occurences in the code and even the icon to try to stay undetected by antimalware solutions
+* Removing most of the `mimikatz` textual occurences in the code and even the icon to try to stay **undetected by antimalware solutions**
 * Providing **x86 and x64 self-signed binaries**, compatible from Windows 7 (tested on Windows 7 x86 and Windows 10 x64)
 
 
