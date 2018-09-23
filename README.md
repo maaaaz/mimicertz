@@ -38,5 +38,5 @@ Changelog
 
 Copyright and license
 ---------------------
-The very same of the original `mimikatz`(https://github.com/gentilkiwi/mimikatz/#licence) project which is **CC BY 4.0 licence**
+The very same of the original [`mimikatz`](https://github.com/gentilkiwi/mimikatz/#licence) project which is **CC BY 4.0 licence**
 Last but not least, antivirus softwares might report these binaries as hacktools or even malwares: this is a known and common issue. If you don't trust this compilation, just don't download it.
